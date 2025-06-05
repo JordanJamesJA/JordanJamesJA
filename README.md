@@ -1,6 +1,6 @@
 # 👨🏽‍💻Jordan James
 
-**`Software Engineer (Front-End Developer)`**
+**`Software Engineer (Full-Stack Engineer)`**
 
 Welcome to my digital realm! 🚀 I'm a self-driven front-end developer who relishes the dynamic world of web development. While I value teamwork, I also have a knack for independent problem-solving. From crafting elegant user interfaces to diving deep into the code, I'm here to make the web an extraordinary place. My GitHub repositories are a testament to my journey — a collection of projects that showcase my self-sufficiency in tackling challenges head-on. I'm not afraid to explore new horizons on my own and take initiative in projects. Autonomy and innovation are my guiding principles, and I'm excited to connect, create, and contribute to the ever-evolving landscape of web development. Let's unleash our individual creativity and reshape the web together! 🌐💻🚀🔥
 
